@@ -1,0 +1,17 @@
+.btn{
+    width: 90px;
+    height: 40px;
+    border-radius:6px;
+    background-color: white;
+}
+
+.btn.isSelected{
+    background-color: blue;
+}
+
+
+.btn:hover{
+    background-color: blue;
+}
+
+
