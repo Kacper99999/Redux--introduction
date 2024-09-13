@@ -2,7 +2,11 @@
     width: 90px;
     height: 40px;
     border-radius:6px;
-    background-color: white;
+    background-color: rgb(196, 190, 190);
+    border: solid 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .btn.isSelected{
@@ -12,6 +16,10 @@
 
 .btn:hover{
     background-color: blue;
+}
+
+body{
+    background-color: black;
 }
 
 
